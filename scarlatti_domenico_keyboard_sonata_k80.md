@@ -3,7 +3,7 @@
 
 Italian Composer
 Alessandro Scarlatti (1685-1757) was a highly influential Italian composer known for his contributions to the development of opera and cantata during the late Baroque period. 
-He is particularly recognized for establishing the Neapolitan school of opera and the Italian form of the opera overture.
+He is particularly recognized for establishing the Neapolitan school of opera and the Italian form of the opera overture. He is a son of [Allesandro Scarlatti](scarlatti_alessandro_gia_il_sole.md)
 
 ## List of Important Works
 

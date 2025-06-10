@@ -11,11 +11,10 @@ Instrument: Harpsichord
 
 1. [Portrait](#portrait)
 2. [Domenico Scarlatti (1685–1757)](#domenico-scarlatti-16851757)
-3. [Biography Timeline](#biography-timeline)
-4. [List of Important Works](#list-of-important-works)
-5. [Listening Guide: Sonata in G major, K.80](#listening-guide-sonata-in-g-major-k80)
-6. [Harpsichord](#harpsichord)
-7. [Why Important](#why-important)
+3. [List of Important Works](#list-of-important-works)
+4. [Listening Guide: Sonata in G major, K.80](#listening-guide-sonata-in-g-major-k80)
+5. [Harpsichord](#harpsichord)
+6. [Why Important](#why-important)
 
 <img src="./D.Scarlatti portrait.jpeg" alt="portrait" style="width50%;"  />
 

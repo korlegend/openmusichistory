@@ -10,9 +10,9 @@ Instrument: Harpsichord
 ## 📖 Table of Contents
 
 1. [Portrait](#portrait)
-2. [Domenico Scarlatti (1685–1757)](#domenico-scarlatti-16851757)
+2. [Domenico Scarlatti 16851757](#domenico-scarlatti-16851757)
 3. [List of Important Works](#list-of-important-works)
-4. [Listening Guide: Sonata in G major, K.80](#listening-guide-sonata-in-g-major-k80)
+4. [Listening Guide: Sonata in G major K80](#listening-guide-sonata-in-g-major-k80)
 5. [Harpsichord](#harpsichord)
 6. [Why Important](#why-important)
 
